@@ -56,7 +56,10 @@ With test.m, the pre-trained models can be evaluated on the Vid4 benchmark.
 ### Description
 The 3D-CNN model is specified in **net.m**.
 The train dataset can be downloaded from [here](https://drive.google.com/file/d/1Lav83JHZCNYInNbpf70CvTgDdBvCalhm).  
-The trained weights will be saved in **\<source_path\>/net/net_x***scale*
+
+**Remarks**
+- You can change the SR scale factor (2, 3 or 4) by modifying the 'scale' parameter.
+- The trained weights will be saved in **\<source_path\>/net/net_x***scale*
 
 ## Contact
 Please contact me via email (sooyekim@kaist.ac.kr) for any problems regarding the released code.  
