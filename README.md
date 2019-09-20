@@ -38,7 +38,7 @@ The code was tested under the following setting:
 
 ### Description
 We provide the pre-trained weights for the x2, x3 and x4 models in **\<source_path\>/net**.  
-The test dataset (Vid4) can be downloaded from [here](https://drive.google.com/file/d/16_rbLVFPObQc275yVeaM_Rg1TqvVa4CB)
+The test dataset (Vid4) can be downloaded from [here](https://drive.google.com/file/d/16_rbLVFPObQc275yVeaM_Rg1TqvVa4CB).
 With test.m, the pre-trained models can be evaluated on the Vid4 benchmark.
 
 **Remarks**
