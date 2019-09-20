@@ -32,11 +32,13 @@ The code was tested under the following setting:
 ## Test code
 ### Quick Start
 1. Download the source code in a directory of your choice \<source_path\>.
-2. Place the files in **\<source_path\>/+dagnn/** to **\<MatConvNet\>/matlab/+dagnn**
+2. Download the test dataset (Vid4) from [this link](https://drive.google.com/file/d/16_rbLVFPObQc275yVeaM_Rg1TqvVa4CB) and place the 'test' folder in **\<source_path\>/data**
+3. Place the files in **\<source_path\>/+dagnn/** to **\<MatConvNet\>/matlab/+dagnn**
 4. Run **test.m**
 
 ### Description
 We provide the pre-trained weights for the x2, x3 and x4 models in **\<source_path\>/net**.  
+The test dataset (Vid4) can be downloaded from [here](https://drive.google.com/file/d/16_rbLVFPObQc275yVeaM_Rg1TqvVa4CB)
 With test.m, the pre-trained models can be evaluated on the Vid4 benchmark.
 
 **Remarks**
