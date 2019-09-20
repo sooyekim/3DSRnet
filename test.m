@@ -1,7 +1,7 @@
 clear all;
 %%%====== Settings ======%%%
-scale = 4; % options: 2, 3, 4
-sequence_name = 'walk'; % options: 'calendar', 'city', 'foliage', 'walk'
+scale = 2; % options: 2, 3, 4
+sequence_name = 'calendar'; % options: 'calendar', 'city', 'foliage', 'walk'
 %%%======================%%%
 addpath('utils');
 % load HR data
