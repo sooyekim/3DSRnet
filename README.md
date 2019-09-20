@@ -11,7 +11,7 @@ If you find this repository useful, please consider citing our paper.
 
 **Extended Paper**:
 > Soo Ye Kim, Jeongyeon Lim, Taeyoung Na, Munchurl Kim. 3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks.
-arXiv: 1812.09079 [link](https://arxiv.org/abs/1812.09079)
+[arXiv: 1812.09079](https://arxiv.org/abs/1812.09079)
 
 ### Requirements
 Our code is implemented using MatConvNet. (MATLAB required)
