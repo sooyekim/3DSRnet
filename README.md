@@ -20,7 +20,7 @@ Appropriate installations of MatConvNet is *necessary* via the [official website
 Detailed instructions on installing MatConvNet can be found [here](http://www.vlfeat.org/matconvnet/install/).
 
 The 3D convolution layer is implemented based on *pengsun*'s mex implementation in [GitHub](https://github.com/pengsun/MexConv3D).  
-MexConv3D **must** be installed prior to executing any of the provided source code.
+**MexConv3D must be installed** prior to executing any of the provided source code.
 
 The code was tested under the following setting:  
 * MATLAB 2017a  
