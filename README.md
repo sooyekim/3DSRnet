@@ -1,13 +1,13 @@
 # 3DSRnet
 Official repository of 3DSRnet (ICIP2019)
 
-We provide the training and test code along with the trained weights and the dataset (train+test) used for 3DSRnet.
+We provide the training and test code along with the trained weights and the dataset (train+test) used for 3DSRnet. The result videos on the Vidset4 benchmark are provided [here](https://drive.google.com/file/d/1O1nALy-5nkaig9euDciwL8E7iGluJyg3/view?usp=sharing). (Results of Bicubic, VSRnet, VESPCN, 3DSRnet and GT provided)   
 
 If you find this repository useful, please consider citing our paper.
 
 **Reference**:  
 > Soo Ye Kim, Jeongyeon Lim, Taeyoung Na, Munchurl Kim. Video Super-Resolution Based on 3D-CNNS with Consideration of Scene Change.
-*IEEE International Conference on Image Processing*, 2019.
+*IEEE International Conference on Image Processing*, 2019. [Electronic Poster](https://drive.google.com/file/d/1LOHJ4bgNXMiskeXNVUra3tR0ijaPhRwb/view?usp=sharing)
 
 **Extended Paper**:
 > Soo Ye Kim, Jeongyeon Lim, Taeyoung Na, Munchurl Kim. 3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks.
