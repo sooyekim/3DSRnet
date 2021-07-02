@@ -9,7 +9,7 @@ If you find this repository useful, please consider citing our paper.
 > Soo Ye Kim, Jeongyeon Lim, Taeyoung Na, Munchurl Kim. Video Super-Resolution Based on 3D-CNNS with Consideration of Scene Change.
 *IEEE International Conference on Image Processing*, 2019. [Electronic Poster](https://drive.google.com/file/d/1LOHJ4bgNXMiskeXNVUra3tR0ijaPhRwb/view?usp=sharing)
 
-**Extended Paper**:
+**Extended paper on arXiv**:
 > Soo Ye Kim, Jeongyeon Lim, Taeyoung Na, Munchurl Kim. 3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks.
 [arXiv: 1812.09079](https://arxiv.org/abs/1812.09079)
 
