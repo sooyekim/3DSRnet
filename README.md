@@ -84,5 +84,4 @@ The train dataset can be downloaded from [here](https://drive.google.com/file/d/
 
 ## Contact
 Please contact me via email (sooyekim@kaist.ac.kr) for any problems regarding the released code.  
-Note: We plan to provide the source code for the scene change module (SF subnet) in the near future.
 
