@@ -52,8 +52,8 @@ The test dataset (Vid4) can be downloaded from [here](https://drive.google.com/f
 With `test.m`, the pre-trained models can be evaluated on the Vid4 benchmark.
 
 **Remarks**
-- You can change the SR scale factor (2, 3 or 4) by modifying the 'scale' parameter in the initial settings.
-- You can change the video sequence by modifying the 'sequence_name' parameter in the initial settings.
+- You can change the SR scale factor (2, 3 or 4) by modifying the `scale` parameter in the initial settings.
+- You can change the video sequence by modifying the `sequence_name` parameter in the initial settings.
 - When you run this code, evaluation will be performed on PSNR and the .png prediction files will be saved in `<source_path>/pred/`.
 
 ### Quick Start (with SF subnet)
