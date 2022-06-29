@@ -10,8 +10,8 @@ If you find this repository useful, please consider citing our paper.
 *IEEE International Conference on Image Processing*, 2019. [Electronic Poster](https://drive.google.com/file/d/1LOHJ4bgNXMiskeXNVUra3tR0ijaPhRwb/view?usp=sharing)
 
 **Extended paper on arXiv**:
-> Soo Ye Kim, Jeongyeon Lim, Taeyoung Na, Munchurl Kim. 3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks.
-[arXiv: 1812.09079](https://arxiv.org/abs/1812.09079)
+> Soo Ye Kim, Jeongyeon Lim, Taeyoung Na, and Munchurl Kim, "3DSRnet: Video Super-resolution using 3D Convolutional Neural Networks,"
+[arXiv: 1812.09079](https://arxiv.org/abs/1812.09079), 2018.
 
 **Bibtex**:
 ```bibtex
@@ -41,7 +41,7 @@ The code was tested under the following setting:
 
 ## Test code
 ### Quick Start (Video SR Benchmark)
-1. Download the source code in a directory of your choice \<source_path\>.
+1. Download the source code in a directory of your choice `<source_path>`
 2. Download the test dataset (Vid4) from [this link](https://drive.google.com/file/d/16_rbLVFPObQc275yVeaM_Rg1TqvVa4CB) and place the 'test' folder in `<source_path>/data`
 3. Place the files in `<source_path>/+dagnn/` to `<MatConvNet>/matlab/+dagnn`
 4. Run `test.m`
@@ -57,7 +57,7 @@ With `test.m`, the pre-trained models can be evaluated on the Vid4 benchmark.
 - When you run this code, evaluation will be performed on PSNR and the .png prediction files will be saved in `<source_path>/pred/`.
 
 ### Quick Start (with SF subnet)
-1. Download the source code in a directory of your choice `<source_path>.
+1. Download the source code in a directory of your choice `<source_path>`
 2. Place the files in `<source_path>/+dagnn/` to `<MatConvNet>/matlab/+dagnn`
 3. Run `test_SF_subnet.m` or `test_SF_SR.m`
 
@@ -69,8 +69,8 @@ With `test.m`, the pre-trained models can be evaluated on the Vid4 benchmark.
 
 ## Training code
 ### Quick Start
-1. Download the source code in a directory of your choice `<source_path>`.
-2. Download the train dataset from [here](https://drive.google.com/file/d/1Lav83JHZCNYInNbpf70CvTgDdBvCalhm) and place the 'train' folder in `<source_path\>/data`
+1. Download the source code in a directory of your choice `<source_path>`
+2. Download the train dataset from [here](https://drive.google.com/file/d/1Lav83JHZCNYInNbpf70CvTgDdBvCalhm) and place the 'train' folder in `<source_path>/data`
 3. Place the files in `<source_path>/+dagnn/` to `<MatConvNet>/matlab/+dagnn`
 4. Run `train.m`
 
@@ -80,7 +80,7 @@ The train dataset can be downloaded from [here](https://drive.google.com/file/d/
 
 **Remarks**
 - You can change the SR scale factor (2, 3 or 4) by modifying the `scale` parameter.
-- The trained weights will be saved in `<source_path>/net/net_x[scale]
+- The trained weights will be saved in `<source_path>/net/net_x[scale]`
 
 ## Contact
 Please contact me via email (sooyekim@kaist.ac.kr) for any problems regarding the released code.  
