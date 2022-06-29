@@ -17,7 +17,7 @@ If you find this repository useful, please consider citing our paper.
 ```bibtex
 @inproceedings{kim2019video,
       title = {Video Super-Resolution Based on 3D-CNNS with Consideration of Scene Change}, 
-      author = {Soo Ye Kim and Jeongyeon Lim and  Taeyoung Na and Munchurl Kim},
+      author = {Kim, Soo Ye and Lim, Jeongyeon and Na, Taeyoung and Kim, Munchurl},
       booktitle = {Proceedings of the IEEE International Conference on Image Processing},
       year = {2019}
 }
